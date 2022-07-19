@@ -15,7 +15,7 @@
     > --server.port=9083  for DoctorServiceApplication-9083
   
 * Then we have to run the all instance of doctor service.
-* The execute doctor-portal doctors endpoint on browser:
+* Then execute doctor-portal doctors endpoint on browser:
   > http://localhost:7081/doctors
   
 
